@@ -1,12 +1,12 @@
-View html version: [https://stefanbugge.github.io/resume](https://stefanbugge.github.io/resume)
+View html version: [https://Vika-svg.github.io/resume](https://Vika-svg.github.io/resume)
 
-# Stefan Loeschcke
+# Viktoria Benzel
 
 
 
 ## Contact
 
-Email: [stefan@loeschcke.dk](mailto:stefan@loeschcke.dk)  
+Email: [viktoria_benzel@hotmail.com](mailto:viktoria_benzel@hotmail.com)  
 
 
 
@@ -17,89 +17,106 @@ Country: DE
 
 ## Profiles
 
-[LinkedIn - stefanbugge](https://www.linkedin.com/in/stefanbugge/)  
-[Github - stefanbugge](https://github.com/stefanbugge)  
-[Stack Overflow - bugge](https://stackoverflow.com/story/stefan.loeschcke)  
+[Github - Vika-svg](https://github.com/Vika-svg)  
 
 ## Summary
 
-I’m an experienced and proactive software developer passionate about front-end development but with strong and proven skills in back-end development as well. I am driven by curiosity, problem solving, and a desire to create engaging products and user experiences. I care a great deal about application architecture, API design and build tooling. I have a strong sense of ownership of the projects I take on and I really enjoy seeing projects through from beginning to end. I thrive in collaborative working environments where people combine their different strengths, challenge each other’s way of thinking and work towards a common goal.
+I’m a project manager with IT experience, passionate about leading projects from concept to completion. An integral part, therefore, is to maintain a close relationship with the cross-functional teams to better understand their requirements and to set common achievable goals. I am constantly trying to improve my skillset and broader knowledge in the area of IT in order for me to effectively communicate with developers and various stakeholders. I find the process to be rewarding, and it has become a newfound passion of mine.
 
 ## Work
 
-### Senior software engineer, [FirstAgenda A/S](https://firstagenda.com)
-##### 2015-10-01 - Current
+### Project Manager, [SHOOP GERMANY GMBH BERLIN](https://www.shoop.de)
+##### 2017-07-01 - Current
 
-Building a Meeting Optimization Platform to tackle all aspects of the meeting process.
+As a project manager, I articulate project goals and scope, translate business needs into technical terms and analyse the requirements for achieving project milestones. I&#x27;m responsible for managing the implementaion of our IT projects as well as documentation, project scheduling and testing.
 
-* Front-end tech lead of a team of 4 people with responsibility for application architecture, maintainability and code quality.
-* Working in a cross-functional and self-organized team with end-to-end responsibilities and defined objectives and key results (OKRs).
-* Collaborating with Samsung on a Bixby/FirstAgenda showcase app for the Bixby 2.0 launch at the Samsung Developer Conference 2018. The collaboration entailed continuous communication with Samsung representatives throughout the project as well as designing a natural language user interface.
-* Greatly improved reading experience of meeting documents by building PDF rendering capabilities into the web app, via PDF.js
-* Introduced a modern front-end tech stack as well as advanced build tooling.
-* Tech: Typescript, React, Redux, Angular, SignalR, Webpack, Electron, Emotion, Sass, PostCSS, C#, ASP.Net, CQRS, DDD, SQL, MongoDB, Entity Framework
+* Managing the release of a complete relaunch of the shoop.de platform
+* Organised and coordinated the implementation of a new administration tool for the sales and support teams.
+* Coordinating the implementation and release of a new browser toolbar in collaboration with an external partner.
+* Managing the cooperation with an external testing company and conducting internal testing for the release
+* Defining requirements into clear specifications for the developer and planning all sprints, including review and backlog refinement
+* Working with Google Analytics and Cluvio to improve the marketing performance
 
-### Software engineer, [Cetrea A/S](http://www.cetrea.com)
-##### 2013-08-01 - 2015-10-01
+### Junior Project Manager, [WEGWEISER MEDIA &amp; CONFERENCES GMBH BERLIN](https://www.wegweiser.de/de)
+##### 2016-12-01 - 2017-06-01
 
-Building applications which assist clinical personel in their daily job as well as improving patient throughput through real-time coordination and communication.
+Planning and realisation of political conferences. This included preparation of all conference documents, editorial support, conception and organisation. The events I participated in:
 
-* Created the Subitizer module, a graphic representation of real-time data for capacity management of the patient ward, providing healthcare professionals to make enlightened decisions and to act proactively before issues arise
-* Developed a mobile web app for health care professionals with real-time patient and treatment information for a more efficient and safe work flow.
-* Tech: Java, CoffeeScript, AngularJS, D3.js, Gulp
+* The 5th Annual Congress &quot;Government &amp; Administration&quot; supported by the Federal Ministry of the Interior
+* The &quot;Business Congress Germany-Russia &amp; Law in Russia 2017&quot;
 
-### Student software developer, [EarMaster Aps](https://www.earmaster.com)
-##### 2011-08-01 - 2013-07-01
+### Office Management, Editorial Assistant, [RT DE PRODUCTIONS GMBH](https://deutsch.rt.com)
+##### 2015-10-01 - 2016-11-01
 
-Working on EarMaster Cloud, a supplement to EarMaster 6, for music schools, choirs, and universities. EarMaster Cloud adds syncing of student assignments and results as well as administration of students, teachers, classes and user licenses.
+Coordinating the different teams in Berlin and Moscow as well as day-to-day administration and running of the office.
 
-* Tech: Java, Google App Engine, Stripes Framework, JavaScript
+* Organizing and coordinating internal, external events and meetings
+* Handling documentation flow
+* Working closely with various teams and support them with ad-hoc requests
+* Ensuring smooth invoice management and support the finance team with invoice administration
 
-### TA Digital Models, Aarhus University
-##### 2011-01-01 - 2011-06-01
+### Internship, [German Eastern Business Association, Berlin](https://www.oaoev.de/)
+##### 2013-10-01 - 2014-02-01
 
-Teaching assistant in a course which introduces object-oriented programming and a selection of design patterns for 2nd semester students of Information Studies. I was responsible for class exercises and giving feedback on hand-ins.
-
-
-### TA Advanced Physical Computing, Aarhus University
-##### 2010-08-01 - 2010-10-01
-
-Teaching assistant in a course that focuses on constructing small interactive, physical computing prototypes, based on microcontrollers and a range sensors and actuators. I was employed as an instructor during laboratory sessions to help students with concept development and implementation of prototypes.
+Working for the PR Department with responsibility for research and analysis regarding the economy of Eastern Europe, Russia and Germany.
 
 
-### Student software developer, Danmarks Radio (DR)
-##### 2009-02-01 - 2009-06-01
+### Student Assistant, [Eberhard Karls University of Tübingen](https://uni-tuebingen.de/en/research/core-research/collaborative-research-centers/crc-923/contact/)
+##### 2011-11-01 - 2013-05-01
 
-Developed Tegneklubben (The Drawing Club), a creative online community for children. Children could share and remix each other&#x27;s drawings - all drawings being under a Creative Commons license. The community was a supplement to a TV show called &quot;DM i tegning&quot;. I worked on the project along with two fellow students during a practical project at the university.
+Student assistant for the project &quot;Threatened Order - Societies under Stress: The USA and the Soviet Union. Transformations within a Global Competition over Political Order, 1975 - 1989.&quot;
 
-* Tech: PHP, JavaScript
+
+### Internship, [Research Centre for East European Studies at the University of Bremen](https://www.forschungsstelle.uni-bremen.de/)
+##### 2012-04-01 - 2012-07-01
+
+Research assistant for the project &quot;Domestic discourses and foreign policy-making in the Caspian region. The case of export pipelines from Azerbaijan, Kazakhstan and Turkmenistan [2011 - 2013]&quot;.
+
+
+### Internship, [Goethe Institut Almaty, Kazakhstan](https://www.goethe.de/ins/kz/de/index.html)
+##### 2011-04-01 - 2011-07-01
+
+Conception and organisation of cultural events for students, musicians and filmmakers from Europe and Kazakhstan.
+
+
+### Internship, [Heinrich Böll Stiftung, Moscow](https://ru.boell.org/en)
+##### 2008-05-01 - 2008-06-01
+
+Organisation of a round table discussion &quot;Russia&#x27;s Europe and Europe&#x27;s Russia&quot; and a summer school for scholarship holders.
+
 
 
 
 ## Education
 
-### Aarhus University, Dept. of Computer Science - M.Sc. in ICT Product Development
-##### 2010-01-01 - 2013-01-01
+### Eberhard Karls University of Tübingen - M.A. in Political science, Religious studies, Slavic studies
+##### 2005-09-01 - 2014-03-01
 
 
-### Aarhus University, Dept. of Computer Science - B.Sc. in ICT Product Development
-##### 2007-01-01 - 2010-01-01
+### Moscow State Institute of International Relations - Two semesters abroad in International relations
+##### 2007-09-01 - 2008-06-01
+
+
+### Harvard Online Courses - Online courses in Information Technology
+##### 2020-03-01 
+
+* CS50&#x27;s Introduction to Computer Science
+* CS50&#x27;s Web Programming with Python and JavaScript
 
 
 
 
-## Publications
+## Skills
 
-### [Ad Hoc Interfaces: A Tangible Approach to On-demand User Interfaces - Aarhus University, Dept. of Computer Science](http://loeschcke.dk/thesis/thesis.pdf)
-
-Master thesis
-
-
+* Advanced in Agile Project Management Tools (Jira, Confluence, Slack)
+* Advanced in Design Tools (Figma, Marvel, Zeplin)
+* Beginner in Web Development (HTML, CSS, SQL, Python)
+* Beginner in Analytic Tools (Cluvio, Google Analytics)
 
 ## Languages
 
-* Native speaker in Danish
+* Native speaker in German
 * Full professional proficiency in English
-* Limited working proficiency in German
+* Full professional proficiency in Russian
 
 

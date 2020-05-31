@@ -5,19 +5,19 @@
   "main": "index.js",
   "scripts": {
     "resume": "resume",
-    "serve": "resume serve",
+    "dev": "resume serve",
     "export-html": "resume export ./docs/index.html --theme standard-resume --format html --resume=./resume.json",
     "export-md": "node export.js --format markdown"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stefanbugge/resume.git"
+    "url": "git+https://github.com/Vika-svg/resume.git"
   },
   "author": {
-    "name": "Stefan Loeschcke"
+    "name": "Viktoria Benzel"
   },
   "license": "UNLICENSED",
-  "homepage": "https://stefanbugge.github.io/resume",
+  "homepage": "https://Vika-svg.github.io/resume",
   "devDependencies": {
     "handlebars": "4.7.6",
     "helper-date": "1.0.1",

@@ -1,1 +1,1 @@
-View html version: [https://stefanbugge.github.io/resume](https://stefanbugge.github.io/resume)
+View html version: [https://Vika-svg.github.io/resume](https://Vika-svg.github.io/resume)

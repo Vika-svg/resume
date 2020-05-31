@@ -635,8 +635,8 @@ jsonresume-theme-modern@0.0.18:
     tarball-extract "0.0.3"
 
 "jsonresume-theme-standard-resume@github:stefanbugge/jsonresume-theme-standard-resume":
-  version "1.0.0"
-  resolved "https://codeload.github.com/stefanbugge/jsonresume-theme-standard-resume/tar.gz/cc0266a60bc4d8fe44496d07dfaa0b7500997884"
+  version "1.0.1"
+  resolved "https://codeload.github.com/stefanbugge/jsonresume-theme-standard-resume/tar.gz/92c6f61b84f79dd3a2c607ec871c93b0236f9bfe"
   dependencies:
     handlebars "4.7.6"
     helper-date "1.0.1"
